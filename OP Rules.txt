@@ -1,6 +1,6 @@
  	T-Ball     (4u-5u)	6u	7u	8u	9u	10u	11u-12u
-Home to 1st (ft)	50	60	60	60	65	65	70
-Home to 2nd (ft)	71	84	84	84	92	92	99
+Home to 1st (ft)	50	60	60	60	60	65	70
+Home to 2nd (ft)	71	84	84	84	84	92	99
 Pitching Distance (ft)	20-34	20-41	20-41	20-41	46	46	50
 Total Pitches	3	5	5	5	See OP Rules
 No new inning after… (min)	70	70	70	70	85	85	100
@@ -23,7 +23,7 @@ Batter's Helmet	Facemask Required for 4u-8u. Facemask or C-Flap in 9u-12u.
 Helmet or Mask for Pitcher Required	Yes	Yes	Yes	Yes	No	No	No
 Bats	USSSA 1.15 stamp, USA stamp, or wood bat
 Two Base Overthrow Rule at First Base	Yes	Yes	Yes	No	No	No	No
-Mound/Defensive Visits	3 total per game.
+Mound/Defensive Visits	1 per pitcher per inning. 1 per inning for 4u-8u.
 Batting Order	Continuous; all available players
 Absent/Injured Hitter	Remove hitter from game and skip, OR leave him in game and take an out.
 Defensive Subs	No player can sit two innings until all players have sat once.
@@ -33,11 +33,11 @@ Courtesy Runner	No	No	No	No	LBO for Catcher only
 Participation or Pitching Violations	Correct the situation and continue play.  No re-dos or forfeits.  We punish the coaches for this, not the kids.
 Rule Protest	$100 required and call board member on duty over.  Umpire judgement calls cannot be protested.  No call can be protested once the next pitch is thrown.
 Home Team	Home team has the official book and sits in the first base dugout.
-Away Team	Away team works the scoreboard and sits in the third bsae dugout.
+Away Team	Away team works the scoreboard and sits in the third base dugout.
 Suspended Game	Regular season: 3 innings is an official game.  Playoff games always resumed.
-Lightning	Clear fields for 15 minutes from lsat visible strike. Teams must remain at park for at least 30 minutes.
+Lightning	Clear fields for 15 minutes from last visible strike. Teams must remain at park for at least 30 minutes.
  
-OREGON PARK BASEBALL ASSOCIATION RULES AND REGULATIONS Revised January 2024
+OREGON PARK BASEBALL ASSOCIATION RULES AND REGULATIONS Revised January 2025
 
 Any rules not covered by the park rules, league rules, or Braves Country Baseball rules are covered by the  National Federation of State High School Associations (NFHS) Baseball Rules Book.
 
@@ -86,7 +86,7 @@ G.	All players will be drafted according to league rules. Players will be added 
 
 H.	Sons/Daughters of the manager and one (1) coach will automatically be assigned to their teams.  The draft sheet will then be made from the rankings. No consideration will be given for transportation problems in placing players on teams. 
 
-I.	All named head and assistant coaches must pass a background check as administered on the league website..  All managers and coaches must be actively involved by either base coaching, scoring, etc. within the confines of the playing field.
+I.	All named head and assistant coaches must pass a background check as administered on the league website.  All managers and coaches must be actively involved by either base coaching, scoring, etc. within the confines of the playing field.
 
 J.	A manager and/or coach is expected to be available and present at the field for all practices and games. No practice or game may begin without the presence of a member of the team who has been approved by OPBA and successfully completed a background check.
 
@@ -141,7 +141,7 @@ D.	Drafts dates, times and location will be determined by the league President a
 
 E.	Children are not permitted in the draft room while drafts are in process.
 
-F.	League Coordinators may hand out final approved draft rankings to their Managers no earlier than 60 minutes before the scheduled start of the draft.  Softcopies of final draft ranking sheets may not be distributed to managers.
+F.	League Coordinators may hand out final approved draft rankings to their managers no earlier than 60 minutes before the scheduled start of the draft.  Softcopies of final draft ranking sheets may not be distributed to managers.
 
 G.	Assistant Coaches must be identified to the league coordinator prior to the handing out of draft rankings. Once rankings are handed out, assistants may not be named until after the draft process is complete.
 
@@ -159,7 +159,7 @@ M.	After the draft order is recorded, the league coordinator will identify any s
 
 N.	Only complete rounds may be drafted. Remaining players will be placed in a hat round and selected in the final round of the draft.
 
-O.	Hat pick players may not be drafted, but only chosen as part of the hat pick round(s). The team that is listed as # 1 on the draft worksheet will select first in the Final Hat pick round, regardless of where the last round ended.
+O.	Hat pick players may not be drafted, but only chosen as part of the hat pick round(s). The snake format will continue for the hat pick round. At this time, if there are any ranked players available, the next team to select will have the option to pick a ranked player or select one player out of the draft. The same process will continue until all the ranked players are selected, at which point the rest of the players are chosen from the hat picks. Therefore, in the hat pick round, a coach has the option to select a ranked player or a hat pick player until all ranked players are picked. 
 
 P.	There shall be no trades.
 
@@ -189,10 +189,8 @@ G.	All bats used at an OP event must be made of wood or an approved alloy. Metal
 
 H.	Each batter/base runner must wear a batting helmet at all times, including while in the batting cages.  The batting helmet should not be removed until the player is back in the dugout.  Batting helmets with face masks are required for all ages. Players at 9U, 10U and 11/12U have the option to wear a helmet with a C-Flap in place of a face mask. Any player running the bases who deliberately removes his headgear (in the umpire’s judgment) should be given a warning and on any subsequent offense will be called out. EXCEPTION: Home run over the fence or time out.
 
-I.	All teams will be issued practice and game balls with their equipment. The game balls should be saved for games. If additional game balls are needed they must be the same type as the issued balls. Below are the preferred game balls. Others may be used if approved by the rules committee.
+I.	All teams will be issued practice and game balls with their equipment. The game balls should be saved for games. If additional game balls are needed, they must be the same type as the issued balls. All balls used during regular or playoff games must be those issued to the Head Coach at the beginning of the season or those provided by the umpire.  Others may be used if approved by the rules committee.
 
-a.	4/5U will use the Wilson 1228 ball
-b.	6U – 12U will use the Wilson A1075BPL ball
 
 
 OREGON PARK BASEBALL UNIFORMS
@@ -249,7 +247,7 @@ E.	FIELD DIMENSIONS:
 	Base Distance	Pitching Distance	Home to 2nd	Pitching Circle	Foul Arc
 T-Ball	50 feet	39 feet	71 feet	10 feet	20 feet
 6U, 7U, 8U	60 feet	46 feet	84 feet	10 feet	20 feet
-9U	65 feet	46 feet	92 feet	N/A	N/A
+9U	60 feet	46 feet	84 feet	N/A	N/A
 10U	65 feet	46 feet	92 feet	N/A	N/A
 11/12U	70 feet	50 feet	99 feet	N/A	N/A
 
@@ -412,7 +410,9 @@ H.	No rolling the ball intentionally will be allowed. No outs will be allowed by
 
 I.	Teams may play more than two games in one day with the approval of the Oregon Park Baseball Association.
 
-J.	If a player is injured, by being hit with a batted ball in the face, throat, or head, time will be called immediately and all players will be awarded one (1) base if injury is to an infielder, two (2) bases if injury is to an outfielder. The awards are from the time of the pitch. Any other injury, deemed serious enough in the judgment of the umpire, will be handled in the same manner. Note: This is a judgment call and cannot be appealed or protested. 
+J.	There will be no intentional walks in coach pitch regular season and playoff games.
+
+K.	If a player is injured, by being hit with a batted ball in the face, throat, or head, time will be called immediately and all players will be awarded one (1) base if injury is to an infielder, two (2) bases if injury is to an outfielder. The awards are from the time of the pitch. Any other injury, deemed serious enough in the judgment of the umpire, will be handled in the same manner. Note: This is a judgment call and cannot be appealed or protested. 
  
 OREGON PARK KID PITCH RULES (9U, 10U AND 11/12U)
 
@@ -428,7 +428,7 @@ E.	When a pitch count or inning count violation is noted in game, the pitcher sh
 
 F.	Once a pitcher has been removed from the mound, he may not return to the mound in the same game.
 
-G.	Any player who toes the rubber and takes a warm up pitch to begin an inning will be the pitcher of record for that inning and must face a batter to completion before he can be substituted for.
+G.	Any player who toes the rubber and takes a warmup pitch to begin an inning will be the pitcher of record for that inning and must face a batter to completion before he can be substituted for.
 
 H.	The strike zone shall comply with major league rules.
 
@@ -483,7 +483,7 @@ c.	No more than two (2) players are allowed to “play up” in the infield area
 
 d.	On an attempt to record a force out of the batter at first base, the ball must be thrown by any/all fielders to the first baseman. The first baseman is the only player allowed to tag the batter or base to record a force out at first base.  Recording an out on a base runner attempting second base, third base, or home plate may be a "tag" play by any infielder, including the pitcher.  
 
-e.	Players may only play the pitcher position one inning maximum per game.  For substitution and/or injury purposes, one inning is defined as one pitch (or swing on the tee).
+e.	Players may only play the pitcher position one inning maximum per game.  For substitution and/or injury purposes, one inning is defined as one pitch (or swing on the tee). This includes the playoffs and extra innings, as the rule will continue until the game is completed.
 
 f.	To record an out when any outfielder fields the ball in the area of the outfield, the player must throw the ball to a player in the infield. If the player fielding the ball in the outfield runs the ball to any base, or tags a runner going to a base, the ball will be declared dead and the runner will be awarded the base. Any base runners will be awarded the base they were running towards.
 
@@ -526,11 +526,12 @@ ii.	If it happens to be the hitters fifth pitch, or after two strikes, and a bun
 iii.	All subsequent successful bunts will be called out by the umpire after the first successful bunt in an inning.  
 iv.	Bunts must clear the 20 foot mark in front of home plate to be considered to be in “fair” territory.  
 v.	There is no suicide squeeze play in this instance because the base runner cannot leave a base until the ball is hit into play by the batter.  However, a runner may attempt to score from third as long as the ball is ruled a “fair” ball by the umpire.
-B.	For the first 21 calendar days of the season (opening day included), the offensive batter will receive five pitches or three swings, whichever first occurs.  After this, the ball will be placed on a tee for the batter to hit.  The 21-day limit may be extended at the discretion of the President, Athletic Director, and Age Group Coordinator for issues with game postponements.
-C.	When a batting tee is used on the playing field, it will be placed in front of home plate.
-D.	While the tee is still in use, one coach may assist batters with placement of the tee and ball.  When the tee is not in use, coaches are not permitted to assist batters.
-E.	On an attempt to get an out at first base should the ball be overthrown (regardless if the ball ends up in fair or foul territory), the runner reaching 1st base may advance, at risk, to 2nd base only. The runner is restricted to the next base regardless of what actions the defensive player takes with the ball. Runners already on base may only advance up to two bases from where they began the play, at their own risk. All runners are always at risk until play is stopped by the umpire, which will be when the umpire deems the lead runner to be stopped or stops himself. In the event the runner continues beyond their allotted base, the umpires will return them to the specified base per this rule.
-F.	There will be two defensive coaches allowed in the outfield prior to Spring Break.  Only one coach is allowed in the outfield after Spring Break.  (NOTE:  The outfield coach must remain 10 feet behind the outfielders.)
+B.	For the first 21 calendar days of the season (opening day included), the offensive batter will receive five pitches or three swings, whichever first occurs.  After this, the ball will be placed on a tee for the batter to hit.  During the first 21 calendar days, if a batter fouls off the ball on the tee, the batter will continue to hit until the ball is put in play.  The 21-day limit may be extended at the discretion of the President, Athletic Director, and Age Group Coordinator for issues with game postponements.
+C.	After the first 21 days of the season, when the tee is removed, if the batter fouls off the 5th pitch from the coach, the batter will continue to bat until a ball is put in play or they swing and miss, whichever comes first. (Ex. Taking a ball on the 5th pitch or later would result in an out.)
+D.	When a batting tee is used on the playing field, it will be placed in front of home plate.
+E.	While the tee is still in use, one coach may assist batters with placement of the tee and ball.  When the tee is not in use, coaches are not permitted to assist batters.
+F.	On an attempt to get an out at first base should the ball be overthrown (regardless if the ball ends up in fair or foul territory), the runner reaching 1st base may advance, at risk, to 2nd base only. The runner is restricted to the next base regardless of what actions the defensive player takes with the ball. Runners already on base may only advance up to two bases from where they began the play, at their own risk. All runners are always at risk until play is stopped by the umpire, which will be when the umpire deems the lead runner to be stopped or stops himself. In the event the runner continues beyond their allotted base, the umpires will return them to the specified base per this rule.
+G.	There will be two defensive coaches allowed in the outfield, these coaches much remain 10 feet behind the outfielders. 
  
 OREGON PARK LEAGUE SPECIFIC RULES FOR 7U AND 8U 
 
@@ -548,7 +549,9 @@ v.	There is no suicide squeeze play in this instance because the base runner can
 
 B.	7 year olds only - On an attempt to get an out at first base should the ball be overthrown (regardless if the ball ends up in fair or foul territory), the runner reaching 1st base may advance, at risk, to 2nd base only. The runner is restricted to the next base regardless of what actions the defensive player takes with the ball. Runners already on base may only advance up to two bases from where they began the play, at their own risk. All runners are always at risk until play is stopped by the umpire, which will be when the umpire deems the lead runner to be stopped or stops himself. In the event the runner continues beyond their allotted base, the umpires will return them to the specified base per this rule.
 
-C.	There will be one defensive coach allowed in the outfield.  This will be only allowed for game played prior to spring break during the spring season for eight year olds.  A coach will be allowed in the outfield for the entire season for seven year olds. A coach is allowed in the outfield for the entirety of the fall season for both seven and eight year olds.  (NOTE:  The outfield coach must remain 10 feet behind the outfielders.)
+C.	If a team chooses to, there will be two defensive coaches allowed in the outfield. Both coaches are only allowed to be stationed down the left and right field line (respectively) during defensive play.  
+
+D.	If the batter fouls off the 5th pitch from the coach, the batter will continue to bat until a ball is put in play or they swing and miss, whichever comes first. (Ex. Taking a ball on the 5th pitch or later would result in an out.)
 
  
 OREGON PARK LEAGUE SPECIFIC RULES 9U AND 10U
@@ -564,6 +567,11 @@ a.	From the chart above, if a pitcher reaches a “days rest” threshold or the
 Example: Oswald Oregon is a 10u player and has a pitch count of 33 to start a batter in a postseason tournament game.  He throws 5 pitches to the next batter, taking his total for the game to 38, and then is removed after (or during) the at bat.  His official total can be entered as 35 for that game and only 1 day of rest is required instead of 2.
 
 b.	Number of days rest is always calculated based on the scheduled start day of a game.  For example, if Oswald Oregon’s pitch count for a tournament Thursday game is 35, he must rest on Friday (one day of rest).  He can pitch in any game with a start time on Saturday. 
+
+c.	If a coach does not enter their pitch count totals during the playoffs, they will not be able to coach in the next scheduled playoff game.
+
+d.	A coach may visit a pitcher while on the mound during an inning for a meeting on one occasion per inning per pitcher. If a coach conducts a mound visit a second time for a particular pitcher in that same inning, the coach must make a pitching change.
+
 
 
 
@@ -601,6 +609,11 @@ The Coach Pitcher must stand in front of the pitcher’s mound, within 3 feet of
 Any batted ball that hits the pitching coach will be a dead ball and a no pitch. If the pitching coach intentionally (in the umpire’s judgment) allows the ball to hit him the batter will be out and a dead ball called. No runner may advance
 The offensive coach (pitcher) must attempt to leave the field and try to pick up the batter's bat. The offensive coach (pitcher) that does not attempt to get off the field and interferes with the defensive player to keep him from making a play will cause the batter to be out. No runners advance.
 During the “No-Base-On-Balls” phase of the season, a pitcher is allowed to pitch no more than one (1) inning in a game. For the purposes of the maximum number of innings a player can pitch, 1 pitch in an inning constitutes 1 inning pitched.
+OREGON PARK LEAGUE SPECIFIC RULES FOR 10U 
+A.	SPECIAL RULES (Effective August 1, 2025)
+a.	Any base runner leaving the base before the ball reaches home plate is out (umpires decision). The ball is dead and all other runners return to base occupied prior to pitch. The pitch will not count. If a runner misses a base it will be an appeal play to the umpire. (See appeals and protests.)
+Once the pitcher has possession of the ball and is in contact with the pitching rubber, any base runner who does not immediately advance to the next base or return to the previously occupied base is out (umpires decision). The Ball is dead and no other runners may advance until the next pitched ball has crossed the plate. EXCEPTION: The runner is not out if a play is made on the runner (i.e., making a move toward the runner or faking a throw.)
+
 
  
 OREGON PARK RULES 11 & 12 Year Olds
@@ -616,6 +629,11 @@ a.	From the chart above, if a pitcher reaches a “days rest” threshold or the
 Example: Oswald Oregon is a 12u player and has a pitch count of 33 to start a batter in a postseason tournament game.  He throws 5 pitches to the next batter, taking his total for the game to 38, and then is removed after (or during) the at bat.  His official total can be entered as 35 for that game and only 1 day of rest is required instead of 2.
 
 b.	Number of days rest is always calculated based on the scheduled start day of a game.  For example, if Oswald Oregon’s pitch count for a tournament Thursday game is 35, he must rest on Friday (one day of rest).  He can pitch in any game with a start time on Saturday. 
+
+c.	If a coach does not enter their pitch count totals during the playoffs, they will not be able to coach in the next scheduled playoff game.
+
+d.	A coach may visit a pitcher while on the mound during an inning for a meeting on one occasion per inning per pitcher. If a coach conducts a mound visit a second time for a particular pitcher in that same inning, the coach must make a pitching change.
+e.	
 
 B.	MANAGER & COACHES:
 
@@ -663,6 +681,7 @@ a.	The higher seed (lower number) will have the choice of being the home team or
 b.	For the championship game, the undefeated team advancing through the winner’s bracket will have the choice of being the home team or the away team.  For the “if necessary” second championship game, the home team will be determined by coin flip.
 
 O.	In tournament play, all ties must be broken in all age groups.  “Extra” innings (after maximum number of innings or time has expired) will be started with one out and a runner on second base.  The runner on second base will be the player in the lineup that bats before the current hitter who is starting the inning.
+P.	T-Ball Only: If a tournament game goes into “Extra” innings, the international tiebreaker rules will include starting the inning with 2 outs and a runner on 1st base.
 
 REGULAR SEASON BATTING CAGE GUIDELINES
 
@@ -680,6 +699,15 @@ Use of the batting cages is based on the following guidelines:
 •	If present, the mats in the cage must be used by the batter and pitcher. If you move the L-screen back or forward, you must also move the mat. This helps to protect the batting cage floor and allows us to replace only the mats as needed.
 
 •	The hitting of any balls, except for plastic balls into the fence of any batting cage is prohibited.
+
+•	For regularly scheduled practice for each team, they will have access to both sides of the split batting cage for their specific field for 30 minutes prior to or 30 minutes after their designated practice slot (not both). They will not have access to the batting cage during their designated practice slot unless fields are off limits.
+
+o	Example: 
+Practice Slots	Times	Batting Cage Slot 1	Or Batting Cage Slot 1
+Weeknight Slot 1	5:30pm – 6:45pm	5:00pm – 5:30pm  	6:45pm – 7:15pm
+Weeknight Slot 2	6:45pm – 8:00pm	6:15pm – 6:45pm	8:00pm – 8:30pm
+Weeknight Slot 3	8:00pm – 9:15pm	7:30pm – 8:00pm	
+
 
 FALL BASEBALL
 
