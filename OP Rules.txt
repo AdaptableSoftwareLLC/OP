@@ -1,4 +1,4 @@
-OREGON PARK BASEBALL ASSOCIATION RULES AND REGULATIONS Revised January 2022
+OREGON PARK BASEBALL ASSOCIATION RULES AND REGULATIONS Revised April 21, 2022
 
 Any rules not covered by the park rules, league rules, or Dizzy Dean rules are covered by the Official Baseball Rules of Major League Baseball and the National Association of Professional Baseball Leagues.
 
@@ -224,17 +224,19 @@ F.	PARTICIPATION RULE:
 
 a.	All batters will be included in the batting order, thus allowing free substitution. For defensive purposes, no player shall sit a second inning until all players at the current game have sat a first inning.  No player shall sit a third inning until all players at the current game have sat a second inning.  This rule continues as long as the game is in progress and throughout both the regular season and postseason tournament. 
 
-b.	Player’s parents and opposing managers will monitor playing time. Any complaints or discrepancies should be reported to the umpire as soon as the infraction occurs.  Any protests regarding player participation must be submitted in writing to both the Age Group Coordinator and the Athletic Director. Discrepancies or complaints should be reported within 2 hours of the completion of the game in question.
+b.	Additionally, in 6U, 7U, & 8U, no player can play an infield position for all six innings of a six-inning game, i.e., all players must sit or play in the outfield for at least one full inning per game of a six-inning game.  “Infield position” for the purpose of this rule includes catcher, pitcher, and the four infield positions.  This rule would only be waived if six players or fewer are participating for a team in a game.  This rule is waived beginning in the seventh inning of a game, BUT the normal participation rule regarding players sitting out IS still enforced.
 
-c.	All managers should designate an official team scorekeeper to record both their team’s and the opposing team’s statistics, roster moves, etc.  This data will be used when/if a discrepancy occurs over playing time.
+c.	Player’s parents and opposing managers will monitor playing time. Any complaints or discrepancies should be reported to the umpire as soon as the infraction occurs.  Any protests regarding player participation must be submitted in writing to both the Age Group Coordinator and the Athletic Director. Discrepancies or complaints should be reported within 2 hours of the completion of the game in question.
 
-d.	Failure to adhere to the above rules will cause a forfeiture of the game in which the incident occurs.  A ruling will be made by the President or Athletic Director and the Coordinator of the respective age group, after review of the scorekeeper books.  An exception to the above playing rule is if any prolonging injury or sickness occurs during the game or during the season, which will not allow a specific individual to continue.  That player will be exempt from the rule.
+d.	All managers should designate an official team scorekeeper to record both their team’s and the opposing team’s statistics, roster moves, etc.  This data will be used when/if a discrepancy occurs over playing time.
 
-e.	In addition, an exception to the rule will be granted if there is a disciplinary problem (with just cause) with a player.  Their manager must however notify the opposing manager, official scorekeeper, and the player’s parents prior to the start of the game.  If the problem occurs during the game, the manager must notify the umpire, opposing coach, and official scorekeeper.
+e.	Failure to adhere to the above rules will cause a forfeiture of the game in which the incident occurs.  A ruling will be made by the President or Athletic Director and the Coordinator of the respective age group, after review of the scorekeeper books.  An exception to the above playing rule is if any prolonging injury or sickness occurs during the game or during the season, which will not allow a specific individual to continue.  That player will be exempt from the rule.
 
-f.	As a recreational park/association, the intent of the above rule is to ensure each player, regardless of skill level, is afforded an equal opportunity to learn how to play multiple positions and to participate in games throughout the recreational regular season. It is the wishes of the OPBA board for all coaches to do their best to provide equal playing time across games as well as at infield and outfield positions.
+f.	In addition, an exception to the rule will be granted if there is a disciplinary problem (with just cause) with a player.  Their manager must however notify the opposing manager, official scorekeeper, and the player’s parents prior to the start of the game.  If the problem occurs during the game, the manager must notify the umpire, opposing coach, and official scorekeeper.
 
-g.	The first offense of violating either of the above rules will result in the manager being issued a warning, and asked to attend a meeting with the President and/or Athletic Director and the coordinator of the respective age group, to discuss the issue.  A second offense will result in a three game suspension for the manager.  A third incident will result in dismissal of the manager from his/her duties.  Any violations of the above rules will be considered when approving coaches prior to the beginning of the following season.
+g.	As a recreational park/association, the intent of the above rule is to ensure each player, regardless of skill level, is afforded an equal opportunity to learn how to play multiple positions and to participate in games throughout the recreational regular season. It is the wishes of the OPBA board for all coaches to do their best to provide equal playing time across games as well as at infield and outfield positions.
+
+h.	The first offense of violating either of the above rules will result in the manager being issued a warning, and asked to attend a meeting with the President and/or Athletic Director and the coordinator of the respective age group, to discuss the issue.  A second offense will result in a three game suspension for the manager.  A third incident will result in dismissal of the manager from his/her duties.  Any violations of the above rules will be considered when approving coaches prior to the beginning of the following season.
 
 G.	MANAGER EJECTION: 
 
@@ -501,15 +503,6 @@ C.	There will be one defensive coach allowed in the outfield.  This will be only
 OREGON PARK LEAGUE SPECIFIC RULES 9U AND 10U
 
 A.	PITCH COUNT LIMITS AND RULES:
-
-
-
-
-
-
-
-
-
 
  	No rest req.	1 day rest req.	2 days rest req.	Single day maximum
 Pre-Spring Break	0 – 15	16 – 30	31 +	45
