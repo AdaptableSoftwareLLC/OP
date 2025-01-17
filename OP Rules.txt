@@ -1,4 +1,4 @@
-OREGON PARK BASEBALL ASSOCIATION RULES AND REGULATIONS Revised January 2023
+OREGON PARK BASEBALL ASSOCIATION RULES AND REGULATIONS Revised July 2023
 
 Any rules not covered by the park rules, league rules, or Dizzy Dean rules are covered by the Official Baseball Rules of Major League Baseball and the National Association of Professional Baseball Leagues.
 
@@ -18,9 +18,7 @@ T-Ball (Saturday Only)	4 and 5 year olds
 8U	8 year olds
 9U	9 year olds
 10U	10 year olds
-11U
-11 year olds
-
+11U	11 year olds
 12U	12 year olds
 
 B.	No player shall be a member of Oregon Park Baseball and any other baseball association at the same time. No player may participate in Oregon Park’s rec baseball program while being on the roster of any travel baseball organization unless cleared with the league President and Athletic Director.
@@ -212,8 +210,7 @@ E.	FIELD DIMENSIONS:
 	Base Distance	Pitching Distance	Home to 2nd	Pitching Circle	Foul Arc
 T-Ball	50 feet	39 feet	55 feet	10 feet	20 feet
 6U, 7U, 8U	60 feet	46 feet	84 feet	10 feet	20 feet
-9U
-60 feet	46 feet	84 feet	N/A	N/A
+9U	60 feet	46 feet	84 feet	N/A	N/A
 10U	65 feet	46 feet	92 feet	N/A	N/A
 11/12U	70 feet	50 feet	99 feet	N/A	N/A
 
@@ -272,11 +269,10 @@ d.	On an appeal in a coach-pitch game (T-Ball through 8U), the manager must iden
 
 e.	Appeals must be made before the next pitch is thrown. 
 
-f.	The manager must notify the umpire if the game is being played under protest immediately on the play situation that caused the condition. 
 
-g.	A protest based on a play situation shall be considered only if it is placed in writing and submitted to the League President, Athletic Director, or respective Coordinator within two (2) hours of the completion of the game.  
+f.	A $100.00 fee must accompany each protest.  The fee will be returned if the protest is upheld.
 
-h.	A $100.00 fee must accompany each protest.  The fee will be returned if the committee rules in favor of the protesting party.
+g.	All protests MUST be settled prior to a game continuing. This should be done in person by the Board Member on duty and either in person or by phone to either the Athletic Director or President, prior to play resuming as per the Dizzy Dean rules. All decisions will be final.
 
 I.	TIE BREAKERS RULE: 
 
@@ -521,14 +517,8 @@ OREGON PARK LEAGUE SPECIFIC RULES 9U AND 10U
 A.	PITCH COUNT LIMITS AND RULES:
 
  	Single day maximum	No rest req.	1 day rest req.	2 days rest req.	3 days rest req.	4 days rest req.
-Pre-Spring Break	45	0 - 20
-21 – 35
-36 - 50
-51 - 65	66+
-Post-Spring Break	60	0 - 20
-21 - 35
-36 - 50
-51 - 65	66+
+Pre-Spring Break	45	0 - 20	21 – 35	36 - 50	51 - 65	66+
+Post-Spring Break	60	0 - 20	21 - 35	36 - 50	51 - 65	66+
 
 a.	From the chart above, if a pitcher reaches a “days rest” threshold or the single day max while facing a batter, they can complete the at bat and have their official count reverted to the prior threshold number as long as they leave the game after (or during) that at bat.  The end of an inning due to a base running out, or by any other means, also constitutes the end of an at bat for the purpose of this rule.
 
@@ -581,24 +571,6 @@ A.	PITCH COUNT LIMITS AND RULES:
  	Single day maximum	No rest req.	1 day rest req.	2 days rest req.	3 days rest req.	4 days rest req.
 Pre-Spring Break	55	0 - 20	21 - 35	36 - 50	51 - 65	66+
 Post-Spring Break	70	0 - 20	21 - 35	36 - 50	51 - 65	66+
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 a.	From the chart above, if a pitcher reaches a “days rest” threshold or the single day max while facing a batter, they can complete the at bat and have their official count reverted to the prior threshold number as long as they leave the game after (or during) that at bat.  The end of an inning due to a base running out, or by any other means, also constitutes the end of an at bat for the purpose of this rule.
 
