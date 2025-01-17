@@ -1,6 +1,45 @@
-OREGON PARK BASEBALL ASSOCIATION RULES AND REGULATIONS Revised July 2023
+ 	T-Ball     (4u-5u)	6u	7u	8u	9u	10u	11u-12u
+Home to 1st (ft)	50	60	60	60	65	65	70
+Home to 2nd (ft)	71	84	84	84	92	92	99
+Pitching Distance (ft)	20-34	20-41	20-41	20-41	46	46	50
+Total Pitches	3	5	5	5	See OP Rules
+No new inning after… (min)	70	70	70	70	85	85	100
+Max Innings	4	6	6	6	6	6	6
+Max Runs per Inning	7	7	7	7	5	5	5
+Mercy Rule	Mathematical elimination in all age groups
+Extra Innings (playoffs only)	Start half inning: one out with previous batter in lineup starting at 2nd
+Dropped 3rd Strike	N/A	N/A	N/A	N/A	No	No	Yes
+Infield Fly	No	No	No	No	Yes	Yes	Yes
+Leading Off	No	No	No	No	No	Yes	Yes
+Balks	9u: No.  10u: See special OP rules / warning	Yes
+Walks	See special rules for 9u governing walks and "no walk" portion of season.
+Intentional Walks	No	No	No	No	Yes	Yes	Yes
+Rolling the Ball	Never allowed in 4u-8u
+Bunts	No	Limited	Limited	Limited	Yes	Yes	Yes
+Fake Bunt	N/A	Any batter who squares to bunt and swings will be out.
+Head First Slide	Always an out, unless returning to a base.
+Cleats	No steel or metal spiked shoes at any age group
+Batter's Helmet	Facemask Required for 4u-8u. Facemask or C-Flap in 9u-12u.
+Helmet or Mask for Pitcher Required	Yes	Yes	Yes	Yes	No	No	No
+Bats	USSSA 1.15 stamp, USA stamp, or wood bat
+Two Base Overthrow Rule at First Base	Yes	Yes	Yes	No	No	No	No
+Mound/Defensive Visits	3 total per game.
+Batting Order	Continuous; all available players
+Absent/Injured Hitter	Remove hitter from game and skip, OR leave him in game and take an out.
+Defensive Subs	No player can sit two innings until all players have sat once.
+Infield Play	In 6u-8u, no one can play an infield position all 6 innings of a 6 inning game.
+Pickup Players 	Regular season only, from same age group, defensive (outfield) only.
+Courtesy Runner	No	No	No	No	LBO for Catcher only
+Participation or Pitching Violations	Correct the situation and continue play.  No re-dos or forfeits.  We punish the coaches for this, not the kids.
+Rule Protest	$100 required and call board member on duty over.  Umpire judgement calls cannot be protested.  No call can be protested once the next pitch is thrown.
+Home Team	Home team has the official book and sits in the first base dugout.
+Away Team	Away team works the scoreboard and sits in the third bsae dugout.
+Suspended Game	Regular season: 3 innings is an official game.  Playoff games always resumed.
+Lightning	Clear fields for 15 minutes from lsat visible strike. Teams must remain at park for at least 30 minutes.
+ 
+OREGON PARK BASEBALL ASSOCIATION RULES AND REGULATIONS Revised January 2024
 
-Any rules not covered by the park rules, league rules, or Dizzy Dean rules are covered by the Official Baseball Rules of Major League Baseball and the National Association of Professional Baseball Leagues.
+Any rules not covered by the park rules, league rules, or Braves Country Baseball rules are covered by the  National Federation of State High School Associations (NFHS) Baseball Rules Book.
 
 The Oregon Park Baseball Association (OPBA) is a non-profit organization that offers an instructional baseball program for youth from ages 4 to 12.  OPBA is dedicated to teaching the youth of our community the fundamental skills of baseball.  Our emphasis is on developing physical fitness, sportsmanship, teamwork, and leadership skills in a positive and safe environment.  We strive to provide opportunities for all participants to develop individual skills and abilities while being a contributing member of a team.  It is important to OPBA that we provide a way for our athletes to build lasting friendships, great memories, and have fun!
 
@@ -8,7 +47,7 @@ The Oregon Park Baseball Association (OPBA) is a non-profit organization that of
 
 LEAGUE ORGANIZATION
 
-A.	League names and ages are as follows.  Age is determined by Dizzy Dean designation using the age of the player on April 30 of the current or upcoming spring season:
+A.	League names and ages are as follows.  Age is determined by Braves Country Baseball designation using the age of the player on April 30 of the current or upcoming spring season:
 
 League Name	Age Range
 T-Ball (Traditional)	4 and 5 year olds
@@ -25,19 +64,19 @@ B.	No player shall be a member of Oregon Park Baseball and any other baseball as
 
 C.	All registrants are expected to be present for skills assessments. In the event a player does not attend skill assessments, the managers may rank such player(s) based upon prior play and knowledge of such player(s). This rank must be agreed to by a majority of the managers present.  If any player is not ranked on the draft sheet, his/her name will be placed in the player pool and will be ineligible for the draft.  Such players will be placed randomly on teams after the draft is complete.  The number of teams in each division will be determined by the number of eligible registrants.
 
-D.	Players may be eligible to play up one age group from their Dizzy Dean designation under the following conditions:
+D.	Players may be eligible to play up one age group from their Braves Country Baseball designation under the following conditions:
 
 a.	A parent of the player must send an email to the Athletic Director acknowledging their intent to have their child tryout to play up by 1PM on the Friday prior to skills evaluation.
 
 b.	Neither parent can be the head coach of a team in their current or desired age group but they can be a named assistant in either. If there is a situation where a head coaching spot may be vacated, coaches will be encouraged to switch the roles of the head coach and assistant coach in their current age group so as to minimize the impact on the league should the player be allowed to play up.
 
-c.	The player must attend both skills evaluations for both their current and desired age groups. In order for a player to play up, they must rank in the top 20% of total players in the desired age group. The total number of players in the age group shall be identified as the number of players in the age group at the conclusion of skills evaluation. If the 20% number does not equal a whole number, the cut off will be rounded down. As an example, if 20% of players in a league = 22.8, the cutoff would be 22 and the player attempting to play up would need to rank out at any position 1 – 22.
+c.	The player must attend both skills evaluations for both their current and desired age groups. In order for a player to play up, they must rank in the top 20% of total players in the desired age group. The total number of players in the age group shall be identified as the number of players in the age group at the conclusion of skills evaluation. If the 20% number does not equal a whole number, the cut off will be rounded down. As an example, if 20% of players in a league = 22.8, the cutoff would be 22 and the player attempting to play up would need to rank out at any position 1 – 22.  Exception: players attempting to play up from T-Ball into 6U must rank in the top 50% of total players in 6U to qualify.
 
 d.	The desired age group must have available room to accommodate the player(s) attempting to play up. Oregon Park will not turn away players of a certain age to allow younger players to play up.
 
 e.	If the number of eligible players to play up exceeds the number of available roster spots, players will be allowed to play up with the players receiving the highest ranking being given the first opportunity.
 
-f.	Any player playing up would only be eligible for the All-Star team at the age group where they played the spring season. Players would not be allowed to play down for All-Stars if they played up during the recreational season.
+f.	Per Braves Country Baseball rules, any player playing up would only be eligible for an All-Star team at the age group where they played the spring season. Players would not be allowed to play down for All-Stars if they played up during the recreational season.
 
 E.	Teams in T-Ball through 8U will consist of no more than twelve (12) players.  Teams in ages 9 and up will consist of no more than eleven (11) players.
 
@@ -47,7 +86,7 @@ G.	All players will be drafted according to league rules. Players will be added 
 
 H.	Sons/Daughters of the manager and one (1) coach will automatically be assigned to their teams.  The draft sheet will then be made from the rankings. No consideration will be given for transportation problems in placing players on teams. 
 
-I.	All named head and assistant coaches must pass a background check and have an OP issued badge visible at games and practices (see OP Badge Rules).  All managers and coaches must be actively involved by either base coaching, scoring, etc. within the confines of the playing field.
+I.	All named head and assistant coaches must pass a background check as administered on the league website..  All managers and coaches must be actively involved by either base coaching, scoring, etc. within the confines of the playing field.
 
 J.	A manager and/or coach is expected to be available and present at the field for all practices and games. No practice or game may begin without the presence of a member of the team who has been approved by OPBA and successfully completed a background check.
 
@@ -55,7 +94,7 @@ K.	All managers will be required to have the team folder in his/her possession d
 
 L.	A file will be kept by the Athletic Director on all managers/coaches in order to verify credentials.  This will include background check, prior coaching experience, other information the manager/coach wishes to include, and information received from parents, players, umpires, and other managers/coaches’ relative to a particular manager/coach.  This information will be utilized by the Board to aid in the approval/disapproval of managers for each season of play.
 
-M.	Manager Selection – The OP Board will select head coaches for each age group to help ensure the best possible experience for the players. In the spring, preference will be given to returning head coaches from the previous spring season. In the fall, preference will be given to returning head coaches from the previous fall season. Other factors taken into consideration are coaching experience at all age levels at Oregon Park (including rec, All Star and Travel teams), coaching experience outside of Oregon Park, and feedback from parents, coaches, and umpires from prior seasons. The OP Board will approve all coaches every season, regardless if the coach is returning from a previous season. 
+M.	Manager Selection – The OP Board will select head coaches for each age group to help ensure the best possible experience for the players. In the spring, preference will be given to returning head coaches from the previous spring season. In the fall, preference will be given to returning head coaches from the previous fall season. Other factors taken into consideration are coaching experience at all age levels at Oregon Park  (including rec, All Star and Travel teams), coaching experience outside of Oregon Park, and feedback from parents, coaches, and umpires from prior seasons. The OP Board will approve all coaches every season, regardless if the coach is returning from a previous season. 
 
 
 OREGON PARK SKILLS ASSESSMENT GUIDELINES
@@ -162,9 +201,9 @@ A.	Oregon Park shall as part of the registration fee provide a uniform for each 
 
 B.	Teams are responsible to place their players’ last names and a jersey number on the back of the uniform at their own expense.
 
-C.	Teams may for Fall ball choose to wear whatever style baseball pants they desire. It is suggested that these pants be the style that the majority of the team already owns, to reduce cost.
+C.	Teams may choose to wear whatever style baseball pants they desire. It is suggested that these pants be the style that the majority of the team already owns, to reduce cost.  Team pants should appear uniform in nature.
 
-D.	OPBA will do its best to provide appropriate size jerseys for each age group. OPBA may not be able to exchange shirts for different sizes. OPBA will arrange designated times for the exchange of pants if needed. If pants are not exchanged at this time, OPBA cannot guarantee that pants of a specific size will be available
+D.	OPBA will do its best to provide appropriate size jerseys for each age group. OPBA may not be able to exchange shirts for different sizes.
 
 E.	No helmets that have been airbrushed with offensive or inappropriate images or words may be worn.
 
@@ -208,9 +247,9 @@ D.	In the event that a game is halted before completion for any cause, it must b
 
 E.	FIELD DIMENSIONS:
 	Base Distance	Pitching Distance	Home to 2nd	Pitching Circle	Foul Arc
-T-Ball	50 feet	39 feet	55 feet	10 feet	20 feet
+T-Ball	50 feet	39 feet	71 feet	10 feet	20 feet
 6U, 7U, 8U	60 feet	46 feet	84 feet	10 feet	20 feet
-9U	60 feet	46 feet	84 feet	N/A	N/A
+9U	65 feet	46 feet	92 feet	N/A	N/A
 10U	65 feet	46 feet	92 feet	N/A	N/A
 11/12U	70 feet	50 feet	99 feet	N/A	N/A
 
@@ -228,7 +267,7 @@ a.	All batters will be included in the batting order, thus allowing free substit
 
 b.	Additionally, in 6U, 7U, & 8U, no player can play an infield position for all six innings of a six-inning game, i.e., all players must sit or play in the outfield for at least one full inning per game of a six-inning game.  “Infield position” for the purpose of this rule includes catcher, pitcher, and the four infield positions.  This rule would only be waived if six players or fewer are participating for a team in a game.  This rule is waived beginning in the seventh inning of a game, BUT the normal participation rule regarding players sitting out IS still enforced.
 
-c.	Player’s parents and opposing managers will monitor playing time. Any complaints or discrepancies should be reported to the umpire as soon as the infraction occurs.  Any protests regarding player participation must be submitted in writing to both the Age Group Coordinator and the Athletic Director. Discrepancies or complaints should be reported within 2 hours of the completion of the game in question.
+c.	Player’s parents and opposing managers will monitor playing time. Any complaints or discrepancies should be reported to the umpire and the game should be stopped until the complaint or discrepancy is resolved.
 
 d.	All managers should designate an official team scorekeeper to record both their team’s and the opposing team’s statistics, roster moves, etc.  This data will be used when/if a discrepancy occurs over playing time.
 
@@ -238,7 +277,7 @@ f.	In addition, an exception to the rule will be granted if there is a disciplin
 
 g.	As a recreational park/association, the intent of the above rule is to ensure each player, regardless of skill level, is afforded an equal opportunity to learn how to play multiple positions and to participate in games throughout the recreational regular season. It is the wishes of the OPBA board for all coaches to do their best to provide equal playing time across games as well as at infield and outfield positions.
 
-h.	When a participation rule violation is noted in game, the head coaches of both teams should confer with the scorekeepers to ensure compliance by both teams.  Consultation from the board member on duty can be requested if necessary.  No further punishment will be enforced on the violating team (no “re-dos” or forfeits).  The situation should be corrected, and the game continues.  All punishments are directed to the violating coach as mentioned below.
+h.	When a participation rule violation is noted in game, the head coaches of both teams should confer with the scorekeepers to ensure compliance by both teams.  Consultation from the board member on duty should be requested if necessary.  No further punishment will be enforced on the violating team (no “re-dos” or forfeits).  The situation should be corrected, and the game continues.  Continuation of the game is acknowledgement by both head coaches that the violation has been corrected.  Violations should be reported to the Age Group Coordinator and Athletic Director in writing at the conclusion of the game.  All punishments are directed to the violating coach as mentioned below.
 
 i.	The first offense of violating either of the above rules will result in the manager being issued a warning, and asked to attend a meeting with the President and/or Athletic Director and the coordinator of the respective age group, to discuss the issue.  A second offense will result in a three game suspension for the manager.  A third incident will result in dismissal of the manager from his/her duties.  Any violations of the above rules will be considered when approving coaches prior to the beginning of the following season.
 
@@ -272,19 +311,19 @@ e.	Appeals must be made before the next pitch is thrown.
 
 f.	A $100.00 fee must accompany each protest.  The fee will be returned if the protest is upheld.
 
-g.	All protests MUST be settled prior to a game continuing. This should be done in person by the Board Member on duty and either in person or by phone to either the Athletic Director or President, prior to play resuming as per the Dizzy Dean rules. All decisions will be final.
+g.	All protests MUST be settled prior to a game continuing. This should be done in person by the Board Member on duty and either in person or by phone to either the Athletic Director or President. All decisions will be final.
 
 I.	TIE BREAKERS RULE: 
 
 a.	If there is a tie at the end of the season due to the same divisional record, head-to-head competition during the season will be the tie breaker.  For a tie with more than 2 teams, head-to-head will only be considered if one team has gone undefeated and untied -OR- winless and untied versus all other tied teams.  Those teams would be seeded at the top/bottom of the tied teams and tie breaking begins again for the remaining teams.
 
-b.	If head-to-head competition during the regular season cannot be resolved between 2 or more teams, then total runs allowed will be the tie breaker.   If total runs allowed is the same among tied teams, runs scored will be used as the next tie breaker.
+b.	If head-to-head competition during the regular season cannot be resolved between 2 or more teams, then average runs allowed per games played will be the tie breaker.   If average runs allowed is the same among tied teams, average runs scored per games played will be used as the next tie breaker.
 
 c.	If there is still a tie the President, Athletic Director and League Coordinator will hold a coin flip to break the tie for tournament seeding.
 
 J.	FORFEIT RULE:
 
-a.	During the regular season, there will be no forfeitures or outs recorded in the lineup due to the inability of a team to field the required number of players.  
+a.	There will be no forfeitures or outs recorded in the lineup due to the inability of a team to field the required number of players.  All teams must field the pitcher and catcher position.  Exception: The catcher position is optional in T-Ball.
 
 b.	A team fielding less than the minimum number of defensive players (ten (10) at 6U - 8U & nine (9) at 9U - 12U) may use a recreational player or players from the same age group once the opposing coach has been notified. 
 
@@ -595,7 +634,7 @@ A.	Pitching rules will be those as listed in the Oregon Park rulebook for 9-10�
 
 B.	The regular season substitution rules remain in effect. No player may sit twice until all players have sat once. This must be protested at the time of occurrence. However, there will be no discussion of the intent of equal play. Coaches will be encouraged to rotate and substitute as they see fit so long as they adhere to the substitution rule as it pertains to players sitting.
 
-C.	Championship games will have no time limit in every age group, schedule permitting at the discretion of the league President and Athletic Director. The Championship game for this purpose will be the first and “if necessary” game.
+C.	Championship games will have no time limit in every coach pitch age group.  The time limit for championship games in kid pitch age groups shall be 2 hours (120 minutes).  Time limits for championships can always be adjusted at the discretion of the league President and Athletic Director. The Championship game for this purpose will be the first and “if necessary” game.
 
 D.	Both teams must provide an official scorer to be seated in the scorer’s box. The Home team must keep the official book and scorers should agree on the score at the end of every inning.
 
@@ -603,7 +642,7 @@ E.	The Pitching log must be filled out and verified by a coach of both teams at 
 
 F.	Each coordinator shall post a tourney bracket and ensure that it is up to date and correct each day.
 
-G.	All protests MUST be settled prior to a game continuing. This should be done in person by the Board Member on duty and either in person or by phone to either the Athletic Director or President, prior to play resuming as per the Dizzy Dean rules. All decisions will be final.
+G.	All protests MUST be settled prior to a game continuing. This should be done in person by the Board Member on duty and either in person or by phone to either the Athletic Director or President. All decisions will be final.
 
 H.	The official start time MUST be noted on the Home Team page of the official scorebook as agreed to by both teams and umpire. This time will prevail in the case of any disputes.
 
@@ -620,16 +659,10 @@ M.	In the event of a mid-game suspension for any reason, all tournament games wi
 
 N.	Home Team Determination:
 
-a.	For the first round of the tournament, the higher seed will be the home team (this applies to a team’s first game in the event that team receives a first round bye).
-b.	For the second round through the championship game, the home team will be determined by a coin flip at the home plate meeting.
-c.	For the championship game, the undefeated team advancing through the winner’s bracket will be the home team.  For the “if necessary” second championship game, the home team will be determined by coin flip.
+a.	The higher seed (lower number) will have the choice of being the home team or the away team.  The higher seed (lower number) will always occupy the first base dugout and keep the official scorebook.  
+b.	For the championship game, the undefeated team advancing through the winner’s bracket will have the choice of being the home team or the away team.  For the “if necessary” second championship game, the home team will be determined by coin flip.
 
-O.	In order to determine batting cage time & dugout assignments, the following will be implemented during the tournaments:
-
-a.	For the first round of the tournament, the higher seed (lower number) will occupy the first base dugout and have the batting cage 60 minutes prior to the game.  The lower seed will occupy the third base dugout and have the batting cages 35 minutes prior to game time.
-b.	For the championship game, the undefeated team advancing through the winner’s bracket will occupy the first base dugout and have the batting cage 60 minutes prior to game time.
-c.	For all other tournament games, the team on the “top line” of the bracket will be the home team for these purposes (first base dugout and batting cage 60 minutes prior to the game).  The “bottom line” of the bracket will be the away team (third base dugout and cage 35 minutes prior).
-P.	In tournament play, all ties must be broken in all age groups.  “Extra” innings (after maximum number of innings or time has expired) will be started with one out and a runner on second base.  The runner on second base will be the player in the lineup that bats before the current hitter who is starting the inning.
+O.	In tournament play, all ties must be broken in all age groups.  “Extra” innings (after maximum number of innings or time has expired) will be started with one out and a runner on second base.  The runner on second base will be the player in the lineup that bats before the current hitter who is starting the inning.
 
 REGULAR SEASON BATTING CAGE GUIDELINES
 
@@ -637,19 +670,12 @@ Use of the batting cages is based on the following guidelines:
 
 •	Batting cages times are based on the start time of your game and not a specified number of minutes.
 
-•	For Field 1, home teams have batting practice that begins 60 minutes prior to the scheduled start time of their game and ends 35 minutes prior to the scheduled start time of the game.
 
-•	For Field 1, visiting teams have batting practice that begins 35 minutes prior to the scheduled start time of their game and ends 10 minutes prior to the scheduled start time of the game.
-
-•	For all other fields with split cages, both teams can have batting practice simultaneously beginning 60 minutes prior to the scheduled start time and ending 10 minutes prior to the scheduled start time of their game.
+•	For all fields with split cages, both teams can have batting practice simultaneously beginning 60 minutes prior to the scheduled start time and ending 10 minutes prior to the scheduled start time of their game.
 
 •	Both teams are to be at the field ready to play 10 minutes before the scheduled start time of their game.
 
-•	For games schedule on Field 8, teams are limited to one of the two cages per team and may choose to both hold batting practice at the same time, provided they are finished no less than 10 minutes prior to the scheduled start time of their game.
-
 •	All batting cages are marked as to the age or field that they are reserved for. Use of the cages prior to games is limited to this age group, so that if a team shows up late they can immediately begin batting practice.
-
-•	Teams that arrive late, must be finished by the designated number of minutes before the scheduled start time of their game. I.E. a home team for a 6:00 P.M. game must be out of the cage no later than 5:25
 
 •	If present, the mats in the cage must be used by the batter and pitcher. If you move the L-screen back or forward, you must also move the mat. This helps to protect the batting cage floor and allows us to replace only the mats as needed.
 
