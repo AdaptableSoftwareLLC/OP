@@ -4,7 +4,7 @@ Handbook
 
 
 
-Effective August 2018
+Effective August 2020
  
 
 
@@ -12,7 +12,6 @@ Table of Contents
 
 TABLE OF CONTENTS								2
 OPENING COMMENTARY 							3
-RATIFICATION 									3
 DISTRIBUTION 									3
 TRAVEL TEAM HANDBOOK 							3
 TRAVEL PROGRAM MANAGEMENT 						3
@@ -24,8 +23,8 @@ TRAVEL TEAM TRYOUTS & PLAYER SELECTION 				5
 TRAVEL TEAM ROSTERS								6
 TRAVEL TEAM UNIFORMS 							6
 TRAVEL TEAM FIELD TIME 							7
-TRAVEL TEAM FELD ASSIGNMENTS						7
-TRAVEL TEAM ROSTER ADJUSTMENTS					7
+TRAVEL TEAM FIELD ASSIGNMENTS						7
+TRAVEL TEAM ROSTER ADJUSTMENTS					8
 TRAVEL TEAM LEAGUE SERVICE REQUIREMENT 				8
 TRAVEL TEAM UMPIRES 								8
 TRAVEL TEAM PARTICIPATION ISSUES 					9
@@ -33,11 +32,11 @@ TRAVEL TEAM FINANCES AND FUNDRAISING 				9
 TRAVEL MANAGER VIOLATIONS ISSUES 					10
  
 Opening Commentary 
-This document establishes the base structure of the OPBA Travel Baseball program. This is the 4th edition, as such, some sections are written in a somewhat informal manner. It includes some recommendations and some absolute rules. Like all OPBA documents before it, this is a work in progress. It is fully expected that all future OPBA Boards will review this document, consider its successes, failures and relevance, and improve upon it, year to year. 
+This document establishes the base structure of the OPBA Travel Baseball program. This is the 5th edition, as such, some sections are written in a somewhat informal manner. It includes some recommendations and some absolute rules. Like all OPBA documents before it, this is a work in progress. It is fully expected that all future OPBA Boards will review this document, consider its successes, failures and relevance, and improve upon it, year to year. 
 
-OPBA is a family membership-based organization, operating in facilities owned and operated by Cobb County Parks and Recreation. The objective of OPBA is to serve the baseball needs of the member families, and citizens of the West Cobb area. To the extent that the Travel Baseball program does that within the Official Policy of OPBA, OPBA is interested in supporting a Travel Baseball Program. The existence of this document should not be seen as any more than that. 
-
-This document received final ratification on__________. Future modifications to this document should be completed by June of each year and ratified before the start of each new season. 
+OPBA is a family membership-based organization, operating in facilities owned and operated by Cobb County Parks and Recreation. The objective of OPBA is to serve the baseball needs of the member families, and citizens of the West Cobb area. To the extent that the Travel Baseball program does that within the Official Policy of OPBA, OPBA is interested in supporting a Travel Baseball Program. The existence of this document should not be seen as any more than that.  OPBA Travel Baseball offers our community the opportunity to participate in year-round competitive baseball while remaining in a not-for-profit program.  OPBA Travel Baseball also offers its teams the opportunity to use its two certificates for the Cooperstown Dreams Park as 12U teams.
+	
+This document received final ratification on July 13, 2020.  Future modifications to this document should be completed by June of each year and ratified before the start of each new season. 
 
 Distribution 
 Copies of this document will be provided to each member of the Board of Directors and each individual selected to be a manager in the travel program. 
@@ -48,29 +47,29 @@ This document is a supplement to the OPBA bylaws and is specific to Travel Ball.
 Travel Program Management 
 1.	The Assistant Athletic Director shall be responsible for the general oversight of the Travel Program and is responsible to the Athletic Director and President.
 2.	Each Travel Team Manager shall be responsible for operation and oversight of all activities associated with their travel team. 
-3.	There shall be a Travel Ball Committee, chaired by the Assistant Athletic Director and composed of a subset of members of the OPBA Board of Directors, which shall consider specific issues related to the Travel Program, including rules and manager selection, and make recommendations to the full OPBA Board. The committee shall consist of the President, Athletic Director and 2 at large Board Members selected by the Assistant Athletic Director, President and Athletic Director.
-4.	In order to properly support the Travel Program, certain actions (advertising for managers, manager selection, for example) must occur prior to the June OPBA Board meeting. Despite this, the board members responsible for taking these actions will be the incoming board members who will be responsible for the program during its actual execution. The board on or after August 1st shall ratify actions taken by these board members prior to August 1st. (Example: A new Travel Coordinator is elected in May 2007. That person shall be responsible for taking the necessary steps in June and July 2007 to administer the Travel Program that will be run from August 1st, 2008, to July 31st, 2009. Similarly, all members of the Travel Ball Committee will be members of the 2008/2009 OPBA board.) 
+3.	There shall be a Travel Ball Committee, chaired by the Assistant Athletic Director and composed of a subset of members of the OPBA Board of Directors, which shall consider specific issues related to the Travel Program, including rules and manager selection, and make recommendations to the full OPBA Board. The committee shall be chaired by the Assistant Athletic Director and consist of 4 other at-large board members selected by the Assistant Athletic Director, President, and Athletic Director.
+4.	In order to properly support the Travel Program, certain actions (advertising for managers, manager selection, for example) must occur prior to the June OPBA Board meeting. Despite this, the board members responsible for taking these actions will be the incoming board members who will be responsible for the program during its actual execution. The board on or after August 1st shall ratify actions taken by these board members prior to August 1st. (Example: A new Travel Coordinator is elected in May 2007. That person shall be responsible for taking the necessary steps in June and July 2007 to administer the Travel Program that will be run from August 1st, 2007, to July 31st, 2008. Similarly, all members of the Travel Ball Committee will be members of the 2007/2008 OPBA board.) 
 5.	As with all aspects of the Oregon Park Baseball Association, the OPBA Board of Directors has ultimate authority over the Travel Program. 
 
 Travel Team Season
 The Travel Baseball season shall be from August 1 of the current year and run through July 31st of the following year.
 
 Travel Team Names
-All travel teams added for the 2018/2019 travel ball season and subsequent seasons will be required to use Oregon Park Mavericks and Rangers as their team name. Where we have multiple teams at one age group the team formed first will get first choice of names.  The 2nd team will be assigned the remaining name.. All travel ball teams who began prior to the 2018/2019 season will not be required to change their name.
+All travel teams added for the 2018/2019 travel ball season and subsequent seasons will be required to use Oregon Park Mavericks and Rangers as their team name. Where we have multiple teams at one age group the team formed first will get first choice of names.  The 2nd team will be assigned the remaining name. All travel ball teams who began prior to the 2018/2019 season will not be required to change their name.
 
 All Travel Team Managers must ensure their team is registered with all outside organizations (USSSA, Perfect Game Triple Crown, etc.) as an Oregon Park team, i.e. Oregon Park spelled out, not OP. No other outside organization’s name may appear in the team’s registration name. Failure to comply will result in loss of field time until the name is corrected.
 
 Travel Team Manager Selection 
-Travel Team Managers shall be selected on a yearly basis. All persons wishing to be travel ball managers shall submit an resumeto the Assistant Athletic Director by the published deadline. 
+Travel Team Managers shall be selected on a yearly basis. All persons wishing to be travel ball managers shall submit a resume to the Assistant Athletic Director by the published deadline. 
 
 The Assistant Athletic Director shall take steps to publicize this process which should include e-mailing notice to all current managers, posting to OPBA website and other appropriate web boards.
 
 Returning travel ball managers will not be required to re-interview with the board each year unless any member of the Travel Ball Committee has been made aware of a situation that needs to be addressed by the full Board. 
 
-For new applicants for the travel ball manager position, a thorough investigation of the manager’s qualifications will be performed. Applicants will be given a personal interview by the OPBA Board where the Board shall be given the opportunity to ask questions of each applicant.
+For new applicants for the travel ball manager position, a thorough investigation of the manager’s qualifications will be performed. Applicants will be given a personal interview by the OPBA Board where the Board shall be given the opportunity to ask questions of each applicant.  Selection of the manager will take place soon after, and the board has an option to decline all candidates for a team.
 
 Travel Team Base Number of Teams 
-OPBA will provide for a base of one team at the 9Uage group and two travel teams for the 10U, 11U and 12U age groups. 
+OPBA will provide for a base of one team at the 9U age group and two travel teams for the 10U, 11U and 12U age groups. 
 
 There are no A and B team designations; each manager will have an opportunity to field a competitive team. This allows for players and families to have the ability to choose a team and manager they feel is best suited for their needs.
 
@@ -87,11 +86,11 @@ Travel Team Tryouts & Player Selection
 Special Situations:
 o	In the event of a special situation, the manager may petition the Travel Ball Committee to obtain an exemption from the Player Eligibility rule. Example: An OPBA player leaves the park and wants to come back.
 o	Managers can petition the committee to waive the eligibility requirements. The request should be made in writing and clearly define the situation that caused ineligibility along with the reasoning for the waiver. 
-8.	All existing players from a previous team, plus any new participants will be required to attend tryouts. 
-9.	Each manager will schedule his tryout date(s) on dates given to him by the OPBA    Athletic Director. Managers must hold a minimum of one tryout and must complete their tryouts during the designated timeframe. They may select a portion of the team after the first tryout and use subsequent tryouts to fill out the roster.
+8.	All existing players from a previous team, plus any new participants will be required to attend a tryout. 
+9.	Each manager will schedule his tryout date(s) on dates given to him by the OPBA    Athletic Director (typically in July). Managers must hold a minimum of one tryout and must complete their tryouts during the designated timeframe. They may select a portion of the team after the first tryout and use subsequent tryouts to fill out the roster.
 10.	The travel team manager and/or their one assistant coach must be present throughout the tryout process. 
 11.	Each participant will be given a fair opportunity to display their fielding, hitting and throwing talents. 
-12.	At the end of the first session, the travel manager will provide a list of the participants who do not make the first cut to the Assistant Athletic Director. The Head Coach will notify these participants within 72 hours via a live (no messages) telephone call\conversation.
+12.	The Head Coach will notify participants who do not make the team within 72 hours of a tryout.
 
 Commentary: 
 OPBA fully expects that each manager will apply all their knowledge of the players and their families to the selection process. The players and their families selected for each team will form an extended family for the next year and will be tied together socially, financially and temporally. The proper selection of that team will determine the level of success that the team enjoys. Success is not defined only as a win-loss record. Obvious issues to be taken into consideration are the skill of the players, the support of the families and the compatibility of everyone involved. The families and players have every right to select a team/manager for which they would like to play for as the manager has the right to select players.
@@ -109,9 +108,8 @@ Travel Team Uniforms
 2.	Travel teams will otherwise be responsible for the selection and acquisition of their own uniforms utilizing OPBA approved colors: Navy Blue and Red or Kelly Green and Navy Blue with white and gray for accent colors. Additional colors must be approved by the Travel Ball Committee.
 3.	All teams will submit new uniform order proofs to the Assistant Athletic Director for approval prior to the order being placed. 
 4.	If a team wears an unapproved uniform while representing OP they will lose field time and be required to replace the uniform with an approved uniform at team expense.
-5.	For teams that plan to use the name of an existing team with a copyrighted name, the travel team manager should receive a release from that team prior to utilizing their name. 
-6.	Oregon Park, OP or the team name, i.e. Mavericks and Rangers, will always be the predominant name on the Jersey. No other logo or names are allowed, other than the manufacture of the uniform item, on all uniform items.
-7.	Travel teams formed prior to the 2018/2019 travel ball season will not be required to change their uniforms or colors to comply with the new rules.
+5.	Oregon Park, OP or the team name, i.e. Mavericks and Rangers, will always be the predominant name on the Jersey. No other logo or names are allowed, other than the manufacture of the uniform item, on all uniform items.
+6.	Travel teams formed prior to the 2018/2019 travel ball season will not be required to change their uniforms or colors to comply with the new rules.
 
 Travel Team Field Time 
 1.	Oregon Park is a recreational park first and as such all travel team field times are subject to change and or cancelation at any time, if the field is needed to accommodate re-scheduled rec games. Every effort will be made to minimize disruptions to Travel Team field times.
@@ -122,11 +120,14 @@ Travel Team Field Time
 Travel Team Field Assignments
 
 1.	All travel team field space will be assigned through the Athletic Director and coordinated with the President and Assistant Athletic Director with in the following guidelines.
-2.	Teams will be assigned to the field that the corresponding rec age group utilizes. In addition to Field 1, 11U and 12U teams will also use Field 8.
-3.	Weekday travel practices are Tuesday and Thursday; consideration will be given to requests for other days if granting the request doesn’t interfere with the rec schedule.
+2.	Teams will be primarily assigned to the field that the corresponding rec age group utilizes. In addition to Field 1, 11U and 12U teams will also use Field 8.  Changes to field assignments may be necessary to accommodate the rec schedule.
+3.	Weekday travel practices are primarily scheduled for Tuesdays, Wednesdays, and Thursdays.  Weekend practices are primarily Saturday night or Sunday.  Consideration will be given to requests for other days if granting the request doesn’t interfere with the rec schedule.
 4.	Weekday practice schedules will include 1 early and 1 late time slot. 
 5.	If 2 or more teams have made the same request, the team with the longest continuous Oregon Park tenure of the travel team manager will determine which team’s request is granted.
 6.	Teams may swap practice times with another team but the Assistant Athletic Director needs to be informed so the changes can be made on the OPBA website.
+
+
+
 
 Travel Team Roster Adjustments 
 Any player added will require the majority support of the households already selected for the team. Such a player must register and pay fees just as any other player does. All Travel Team registration fees are non-refundable.
@@ -144,17 +145,17 @@ The Assistant Athletic Director shall inform the Athletic Director and Team Info
 If a travel team manager does not abide by the team roster adjustment rules, the minimum penalty shall be an open competition for the travel manager position for the following year (an automatic vote of no confidence). The maximum penalty shall be the immediate loss of the travel manager position. In this case, the OPBA Board shall determine whether to disband the current team.
 
 Travel Team League Service Requirement 
-Travel Teams will be required to run the recreation league player evaluations.
-Each team will be assigned up to two fields to support during player evaluations. At any given time, a minimum of two named coaches must be present and conducting the evaluations.  Managers, coaches and at least five players will be available to assist with player evaluations. Each Travel Manager will be responsible for scheduling coverage of its fields. 
+Travel Teams will be required to run the recreation league player evaluations for both Fall and Spring seasons.  Each team will be assigned up to two fields to support during player evaluations. At any given time, a minimum of two named coaches must be present and conducting the evaluations.  Managers, coaches and at least five players will be available to assist with player evaluations. Each Travel Manager will be responsible for scheduling coverage of its fields. 
 
 Travel team players may not pitch to players being evaluated. 
 Travel teams will not be assigned age groups older than themselves. Travel teams should be assigned age groups younger than themselves when possible
 
 Travel Team Umpires 
 1.	Umpires for all home games or tournaments will be scheduled through the OPBA Assistant Athletic Director. 
-2.	Travel teams will receive umpires for 10 home games or scrimmages as part of the OPBA player registration fee. 
+2.	Travel teams will receive umpires for 10 home games or scrimmages as part of the OPBA player registration fee. These umpire credits cannot be rolled over to following seasons or refunded in any manner.
 3.	Unless the OPBA umpiring contractor is unwilling or unable to comply, all umpires will be scheduled through the OPBA umpiring contractor. 
- 
+
+
 Travel Team Participation Issues 
 There are no OPBA rules that explicitly address participation. Travel team managers are asked to only select players whom they feel can contribute to the team and will have an opportunity to play.
 
