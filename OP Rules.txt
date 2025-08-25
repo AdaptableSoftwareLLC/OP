@@ -37,7 +37,7 @@ Away Team	Away team works the scoreboard and sits in the third base dugout.
 Suspended Game	Regular season: 3 innings is an official game.  Playoff games always resumed.
 Lightning	Clear fields for 15 minutes from last visible strike. Teams must remain at park for at least 30 minutes.
  
-OREGON PARK BASEBALL ASSOCIATION RULES AND REGULATIONS Revised January 2025
+OREGON PARK BASEBALL ASSOCIATION RULES AND REGULATIONS Revised August 2025
 
 Any rules not covered by the park rules, league rules, or Braves Country Baseball rules are covered by the  National Federation of State High School Associations (NFHS) Baseball Rules Book.
 
@@ -348,13 +348,9 @@ e.	If, in the judgment of the umpire, a player attempts a head first slide he wi
 L.	WEATHER RULES: 
 
 a.	Rainouts or other weather related cancelations will be rescheduled by the President or Athletic Director. 
-
 b.	The League Coordinators are responsible for notifying all affected coaches of reschedules. The rescheduled game MUST be played on the date and time indicated.  The Athletic Director will be responsible for notifying the proper personnel for rescheduling umpires.
-
 c.	If in the opinion of the President and Athletic Director the fields are playable, ALL games will be played on all fields. Any Coach refusing to send his team on the field after this determination is made shall have 2 minutes from the start time of the game to do so or he will forfeit. If the refusing coach is batting first, after 2 minutes, the Umpire shall direct the pitcher to pitch and for each pitch in which the batter is not in the box a strike shall be recorded.
-
 d.	When the fields are closed by the OPBA Board, this includes all fields and both infields and outfields. Unless specifically mentioned batting cages are available. The use of any field during this time is prohibited.
-
 e.	In the event of rain or lightning during a game, ALL games will be halted at the same time. Games halted for lightning shall be halted for fifteen (15) minutes from the time of the last visible strike. If any umpire or OPBA board member clears any field for lightning, all fields shall immediately be cleared. In the event of rain, stop all games at the same time, attempt to get mounds covered and hold all teams at the park for no less than thirty (30) minutes after which time a decision will be made by the board member on duty after conferring with the President and/or the Athletic Director.
  
 OREGON PARK COMMON AND SAFETY RULES
@@ -610,9 +606,8 @@ Any batted ball that hits the pitching coach will be a dead ball and a no pitch.
 The offensive coach (pitcher) must attempt to leave the field and try to pick up the batter's bat. The offensive coach (pitcher) that does not attempt to get off the field and interferes with the defensive player to keep him from making a play will cause the batter to be out. No runners advance.
 During the “No-Base-On-Balls” phase of the season, a pitcher is allowed to pitch no more than one (1) inning in a game. For the purposes of the maximum number of innings a player can pitch, 1 pitch in an inning constitutes 1 inning pitched.
 OREGON PARK LEAGUE SPECIFIC RULES FOR 10U 
-A.	SPECIAL RULES (Effective August 1, 2025)
-a.	Any base runner leaving the base before the ball reaches home plate is out (umpires decision). The ball is dead and all other runners return to base occupied prior to pitch. The pitch will not count. If a runner misses a base it will be an appeal play to the umpire. (See appeals and protests.)
-Once the pitcher has possession of the ball and is in contact with the pitching rubber, any base runner who does not immediately advance to the next base or return to the previously occupied base is out (umpires decision). The Ball is dead and no other runners may advance until the next pitched ball has crossed the plate. EXCEPTION: The runner is not out if a play is made on the runner (i.e., making a move toward the runner or faking a throw.)
+A.	SPECIAL RULES 
+a.	If a batter squares to bunt and then swings, he will be called out (Umpires decision).
 
 
  
