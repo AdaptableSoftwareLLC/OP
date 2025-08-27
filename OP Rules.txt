@@ -8,7 +8,7 @@ Max Innings	4	6	6	6	6	6	6
 Max Runs per Inning	7	7	7	7	5	5	5
 Mercy Rule	Mathematical elimination in all age groups
 Extra Innings (playoffs only)	Start half inning: one out with previous batter in lineup starting at 2nd
-Dropped 3rd Strike	N/A	N/A	N/A	N/A	No	No	Yes
+Dropped 3rd Strike	N/A	N/A	N/A	N/A	No	Yes	Yes
 Infield Fly	No	No	No	No	Yes	Yes	Yes
 Leading Off	No	No	No	No	No	Yes	Yes
 Balks	9u: No.  10u: See special OP rules / warning	Yes
@@ -581,7 +581,7 @@ C.	SPECIAL RULES
 
 a.	If a batter squares to bunt and then swings, he will be called out (Umpires decision).
 
-b.	Three (3) strikes is an out even if the ball is dropped. No dropped third strike
+b.	In 9U: Three (3) strikes is an out even if the ball is dropped. 
 
 c.	10u Balk Rule: In the event a pitcher balks, time will be called and it will be “no pitch.”  Baserunners will ONLY be awarded the next base if they were already advancing to the next base before the balk occurred (umpire’s judgement).
 
